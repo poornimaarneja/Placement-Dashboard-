@@ -1,6 +1,4 @@
 # Placement-Dashboard-
-Got it! Here's a **more specific and refined version** of your README content — reworded for clarity, precision, and professionalism. This version is perfect for a GitHub repository and gives a detailed yet concise overview of the project.
-
 ---
 
 # 📊 Power BI Placement Dashboard
